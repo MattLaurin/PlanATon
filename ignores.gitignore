@@ -1,0 +1,41 @@
+# Ignore build output directories
+/build/
+/out/
+
+# IntelliJ IDEA-specific files
+.idea/
+*.iml
+
+# Eclipse-specific files
+.classpath
+.project
+.settings/
+
+# VS Code-specific files
+.vscode/
+
+# Maven-specific files
+target/
+
+# Gradle-specific files
+.gradle/
+build/
+
+# Log files
+*.log
+
+# OS-generated files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+desktop.ini     # Windows
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
